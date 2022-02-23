@@ -1,4 +1,4 @@
-# Expanding Cards
+# Progress Steps
 This project is a simple Progress Steps.
 
 ## Technologies
